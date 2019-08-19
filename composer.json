@@ -1,0 +1,19 @@
+{
+    "name": "rekkles/app-store-scrape",
+    "description": "A Simple Way To Get AppStore Info",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rekkles",
+            "email": "yinxiangnet@qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rekkles\\AppStoreScrape\\": "src"
+        }
+    }
+}
