@@ -1,4 +1,4 @@
-<h1 align="center"> app-store-scrape </h1>
+<h1 align="center"> AppStore-Scrape </h1>
 
 [![Latest Stable Version](https://poser.pugx.org/rekkles/app-store-scrape/v/stable)](https://packagist.org/packages/rekkles/app-store-scrape) 
 [![Total Downloads](https://poser.pugx.org/rekkles/app-store-scrape/downloads)](https://packagist.org/packages/rekkles/app-store-scrape)
