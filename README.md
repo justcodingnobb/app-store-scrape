@@ -1,6 +1,11 @@
 <h1 align="center"> app-store-scrape </h1>
 
-<p align="center"> 🎇 A Simple Way To Get AppStore Info.</p>
+<p align="center"> [![Latest Stable Version](https://poser.pugx.org/rekkles/app-store-scrape/v/stable)](https://packagist.org/packages/rekkles/app-store-scrape) 
+[![Total Downloads](https://poser.pugx.org/rekkles/app-store-scrape/downloads)](https://packagist.org/packages/rekkles/app-store-scrape)
+[![Latest Unstable Version](https://poser.pugx.org/rekkles/app-store-scrape/v/unstable)](https://packagist.org/packages/rekkles/app-store-scrape)
+[![License](https://poser.pugx.org/rekkles/app-store-scrape/license)](https://packagist.org/packages/rekkles/app-store-scrape)
+[![Monthly Downloads](https://poser.pugx.org/rekkles/app-store-scrape/d/monthly)](https://packagist.org/packages/rekkles/app-store-scrape)
+[![Daily Downloads](https://poser.pugx.org/rekkles/app-store-scrape/d/daily)](https://packagist.org/packages/rekkles/app-store-scrape)</p>
 
 
 ## Installing
